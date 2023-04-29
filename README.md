@@ -1,6 +1,4 @@
-# CS F469 Movie Recommender System
-
-This project is a recommender system based on the MovieLens dataset built using
+Recommender system evaluation based on the MovieLens dataset built using
 
 1. Collaborative filtering
 2. SVD - Singular Value Decomposition
